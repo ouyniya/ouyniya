@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning **Typescript, JAVA**<br>👨‍💻 All of my projects are available at [https://github.com/ouyniya?tab=repositories](https://github.com/ouyniya?tab=repositories)<br> 💬 Ask me about **React, NodeJS, Javascript, Python, R, VBA, etc.**<br>⚡ Fun fact **I think I'm funny**
 
 # Professional Certifications:
-[![IBM Full Stack Software Developer Professional Certificate](https://i.imgur.com/MEnUTri.png)]([https://www.credly.com/badges/c7dc24cf-0824-4a95-a9e8-e8b8cf5a41ca/public_url])
+[![IBM Full Stack Software Developer Professional Certificate](https://i.imgur.com/MEnUTri.png)](https://coursera.org/share/f5f78e51d9084337deff2f5aaf25f827)
 
 Click [here](https://www.credly.com/users/niya-somkerd) to view all the other badges
 
