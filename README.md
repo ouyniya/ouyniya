@@ -18,6 +18,21 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🌱 I’m currently learning **Typescript, JAVA**<br>👨‍💻 All of my projects are available at [https://github.com/ouyniya?tab=repositories](https://github.com/ouyniya?tab=repositories)<br> 💬 Ask me about **React, NodeJS, Javascript, Python, R, VBA, etc.**<br>⚡ Fun fact **I think I'm funny**
 
+
+# ✨ My Deployed Project
+
+[![angular](https://img.shields.io/badge/My%20Project-Angular-%23bf0079?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/stars/ouyniya/lists/angular)
+
+> 🔗 **URL**: [https://ouyniya.github.io/angular-easy-tasks](https://ouyniya.github.io/angular-easy-tasks)  
+> 📁 **Repository**: [ouyniya/angular-easy-tasks](https://github.com/ouyniya/angular-easy-tasks.git)
+
+
+[![react](https://img.shields.io/badge/My%20Project-React-%2300c2f2?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/stars/ouyniya/lists/react)
+
+> 🔗 **URL**: [https://ouyniya.github.io/e-plantShopping](https://ouyniya.github.io/e-plantShopping)  
+> 📁 **Repository**: [ouyniya/e-plantShopping](https://github.com/ouyniya/e-plantShopping.git)
+
+
 # Professional Certifications:
 [![IBM Full Stack Software Developer Professional Certificate](https://i.imgur.com/MEnUTri.png)](https://coursera.org/share/f5f78e51d9084337deff2f5aaf25f827)
 
