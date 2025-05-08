@@ -52,7 +52,7 @@ Click [here](https://www.credly.com/users/niya-somkerd) to view all the other ba
 
 # 🙏 Acknowledgements
 There are so many people I want to thank who made my projects possible (or at least bearable 😄):  
-- 🧠  **Myself**, for not giving up (even when the bugs did).
+- 🧠  **Myself**, for not giving up (even when the bugs kept coming).
 - 🧑‍🏫 **Course creators & tech bloggers** – your clear explanations turned confusion into “Aha!” moments.
 - 💬 **Stack Overflow**, for always being there when things broke (which was often).  
 - 🛠️ **Open-source contributors**, whose packages, docs, and tutorials were lifesavers.  
