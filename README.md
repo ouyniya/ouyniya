@@ -31,8 +31,16 @@ Visit my website: https://nysdev.com
 
 [![react](https://img.shields.io/badge/My%20Project-React-%2300c2f2?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/stars/ouyniya/lists/react)
 
+> 🔗 **URL**: https://smart-fund-select-frontend.vercel.app/  
+> 📁 **Repository**: https://github.com/ouyniya/smart-fund-select-frontend  
+
+> 🔗 **URL**: https://nextjs15-camping-site.vercel.app/  
+> 📁 **Repository**: https://github.com/ouyniya/nextjs15-camping-site  
+
 > 🔗 **URL**: [https://ouyniya.github.io/e-plantShopping](https://ouyniya.github.io/e-plantShopping)  
 > 📁 **Repository**: [ouyniya/e-plantShopping](https://github.com/ouyniya/e-plantShopping.git)
+
+
 
 🩵 All of my projects are available at [https://github.com/ouyniya?tab=repositories](https://github.com/ouyniya?tab=repositories)
 
