@@ -23,22 +23,34 @@ Visit my website: https://nysdev.com
 
 # ✨ My Deployed Project
 
-[![angular](https://img.shields.io/badge/My%20Project-Angular-%23bf0079?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/stars/ouyniya/lists/angular)
+[![NextJS](https://img.shields.io/badge/My%20Project-NextJS-%2302e69d?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/stars/ouyniya/lists)
 
-> 🔗 **URL**: [https://ouyniya.github.io/angular-easy-tasks](https://ouyniya.github.io/angular-easy-tasks)  
-> 📁 **Repository**: [ouyniya/angular-easy-tasks](https://github.com/ouyniya/angular-easy-tasks.git)
-
-
-[![react](https://img.shields.io/badge/My%20Project-React-%2300c2f2?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/stars/ouyniya/lists/react)
-
-> 🔗 **URL**: https://smart-fund-select-frontend.vercel.app/  
-> 📁 **Repository**: https://github.com/ouyniya/smart-fund-select-frontend  
+> 🔗 **URL**: https://www.nysdev.com/  
+> 📁 **Repository**: https://github.com/ouyniya/my-first-portfolio  
 
 > 🔗 **URL**: https://nextjs15-camping-site.vercel.app/  
 > 📁 **Repository**: https://github.com/ouyniya/nextjs15-camping-site  
 
+
+[![react](https://img.shields.io/badge/My%20Project-React-%2300c2f2?style=for-the-badge&logo=react&logoColor=white)](https://github.com/stars/ouyniya/lists/react)
+
+> 🔗 **URL**: https://smart-fund-select-frontend.vercel.app/  
+> 📁 **Repository**: https://github.com/ouyniya/smart-fund-select-frontend  
+
 > 🔗 **URL**: [https://ouyniya.github.io/e-plantShopping](https://ouyniya.github.io/e-plantShopping)  
 > 📁 **Repository**: [ouyniya/e-plantShopping](https://github.com/ouyniya/e-plantShopping.git)
+
+
+[![python](https://img.shields.io/badge/My%20Project-Python-%23e8c801?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ouyniya)
+
+> 🔗 **URL**: https://stock-performance-calculation.streamlit.app/comparison  
+> 📁 **Repository**: https://github.com/ouyniya/stock-performance-calculation  
+
+
+[![angular](https://img.shields.io/badge/My%20Project-Angular-%23bf0079?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/stars/ouyniya/lists/angular)
+
+> 🔗 **URL**: [https://ouyniya.github.io/angular-easy-tasks](https://ouyniya.github.io/angular-easy-tasks)  
+> 📁 **Repository**: [ouyniya/angular-easy-tasks](https://github.com/ouyniya/angular-easy-tasks.git)
 
 
 
