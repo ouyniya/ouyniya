@@ -43,6 +43,9 @@ Visit my website: https://nysdev.com
 
 [![python](https://img.shields.io/badge/My%20Project-Python-%23e8c801?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ouyniya)
 
+> 🔗 **URL**: https://python-port-attribution-by-nysdev.streamlit.app  
+> 📁 **Repository**: https://github.com/ouyniya/python-port-attribution  
+
 > 🔗 **URL**: https://stock-performance-calculation.streamlit.app/comparison  
 > 📁 **Repository**: https://github.com/ouyniya/stock-performance-calculation  
 
