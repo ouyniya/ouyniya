@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌱 I’m currently learning **Typescript, JAVA**<br>👨‍💻 All of my projects are available at [https://github.com/ouyniya?tab=repositories](https://github.com/ouyniya?tab=repositories)<br> 💬 Ask me about **React, NodeJS, Javascript, Python, R, VBA, etc.**<br>⚡ Fun fact **my humor is like a hidden gem—mostly hidden. 🥹**  
+🌱 I’m currently learning **Typescript, Microservices**<br>👨‍💻 All of my projects are available at [https://github.com/ouyniya?tab=repositories](https://github.com/ouyniya?tab=repositories)<br> 💬 Ask me about **React, NodeJS, Javascript, Python, R, VBA, etc.**<br>⚡ Fun fact **my humor is like a hidden gem—mostly hidden. 🥹**  
 
 Visit my website: https://nysdev.com 
 
