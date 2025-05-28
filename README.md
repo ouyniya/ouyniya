@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌱 I’m currently learning **Typescript, Microservices**<br>👨‍💻 All of my projects are available at [https://github.com/ouyniya?tab=repositories](https://github.com/ouyniya?tab=repositories)<br> 💬 Ask me about **React, NodeJS, Javascript, Python, R, VBA, etc.**<br>⚡ Fun fact **my humor is like a hidden gem—mostly hidden. 🥹**  
+🌱 I’m currently learning **Typescript, Microservices**<br>👨‍💻 All of my projects are available at [https://github.com/ouyniya?tab=repositories](https://github.com/ouyniya?tab=repositories)<br> 💬 Ask me about **React, NodeJS, Javascript, Python, R, VBA, etc.**<br>⚡ Fun fact: It’s hard to do a really good job on anything you don’t think about in the shower. - Paul Graham  
 
 Visit my website: https://nysdev.com 
 
 
-# ✨ My Deployed Project
+<!--
+ # ✨ My Deployed Project
 
 [![NextJS](https://img.shields.io/badge/My%20Project-NextJS-%2302e69d?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/stars/ouyniya/lists)
 
@@ -55,6 +56,7 @@ Visit my website: https://nysdev.com
 > 🔗 **URL**: [https://ouyniya.github.io/angular-easy-tasks](https://ouyniya.github.io/angular-easy-tasks)  
 > 📁 **Repository**: [ouyniya/angular-easy-tasks](https://github.com/ouyniya/angular-easy-tasks.git)
 
+-->
 
 
 🩵 All of my projects are available at [https://github.com/ouyniya?tab=repositories](https://github.com/ouyniya?tab=repositories)
